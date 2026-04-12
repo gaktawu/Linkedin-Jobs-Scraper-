@@ -16,14 +16,15 @@
 
 ## 🌐 Language / Bahasa
 
-- [🇬🇧 English](#-english)
-- [🇮🇩 Bahasa Indonesia](#-bahasa-indonesia)
+- [English](#-english)
+- [Bahasa Indonesia](#-bahasa-indonesia)
 
 ---
 
-# 🇬🇧 English
+# English
 
 ## What This Does
+
 
 This tool scrapes public job listings from LinkedIn (no login required) and saves them as a clean CSV or Excel file. It supports multiple keywords and locations in a single run, automatically moves to the next combination when one is exhausted, and resumes exactly where it left off if interrupted.
 
@@ -104,6 +105,8 @@ Automatically detects the latest CSV and produces a formatted `.xlsx` with:
 # 🇮🇩 Bahasa Indonesia
 
 ## Apa Ini?
+
+Alat pencari 19 juta lapangan pekerjaan yang dijanjikan itu
 
 Tool ini mengambil data lowongan kerja publik dari LinkedIn (tanpa perlu login) dan menyimpannya sebagai file CSV atau Excel yang rapi. Mendukung banyak keyword dan lokasi sekaligus dalam satu proses, otomatis lanjut ke kombinasi berikutnya saat satu kombinasi habis, dan bisa dilanjutkan tepat dari posisi terakhir jika tiba-tiba berhenti.
 
