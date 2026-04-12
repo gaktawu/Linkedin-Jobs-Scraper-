@@ -25,6 +25,7 @@
 
 ## What This Does
 
+pencari 19 juta lapangan pekerjaan
 
 This tool scrapes public job listings from LinkedIn (no login required) and saves them as a clean CSV or Excel file. It supports multiple keywords and locations in a single run, automatically moves to the next combination when one is exhausted, and resumes exactly where it left off if interrupted.
 
@@ -81,11 +82,6 @@ Leave `--location` empty to search worldwide:
 python linkedin_scraper.py --keyword "data analyst" --total 1000
 ```
 
-### Step 4 — Convert to Excel (optional)
-
-```bash
-python csv_to_excel.py
-```
 
 Automatically detects the latest CSV and produces a formatted `.xlsx` with:
 - Styled header, alternating row colors, auto-fit column widths
@@ -102,7 +98,7 @@ Automatically detects the latest CSV and produces a formatted `.xlsx` with:
 
 ---
 
-# 🇮🇩 Bahasa Indonesia
+# Bahasa Indonesia
 
 ## Apa Ini?
 
@@ -163,11 +159,6 @@ Kosongkan `--location` untuk mencari di semua negara:
 python linkedin_scraper.py --keyword "data analyst" --total 1000
 ```
 
-### Langkah 4 — Konversi ke Excel (opsional)
-
-```bash
-python csv_to_excel.py
-```
 
 Otomatis mendeteksi CSV terbaru dan menghasilkan `.xlsx` yang rapi dengan:
 - Header berwarna, baris selang-seling, lebar kolom otomatis
