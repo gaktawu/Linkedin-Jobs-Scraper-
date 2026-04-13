@@ -17,7 +17,7 @@
 ## 🌐 Language / Bahasa
 
 - [English](#-english)
-- [Bahasa Indonesia](#-bahasa-indonesia)
+- [Bahasa Indonesia](#-Bahasa-Indonesia)
 
 ---
 
